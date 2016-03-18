@@ -230,6 +230,7 @@
 
 .fa-envelope-o:before{
 	content:"\f003"
+	line-height: 2;
 	
 }
 
