@@ -15,7 +15,7 @@ h1{font-size:18px;text-transform:uppercase;padding:0;margin:0;}
 .resp-tabs-container h1{font-size:26px;color:#999;text-transform:inherit;margin-top:0;margin-bottom:15px;padding-bottom:10px;padding-left:30px;border-bottom:1px solid #e6e6e6;}
 .resp-tabs-container h1:not(.h-bloc){background:none;}
 a{text-decoration:none !important;}
-.icon_menu{font-size:22px;-webkit-transition:background 0.3s, color 0.3s, box-shadow 0.3s;-moz-transition:background 0.3s, color 0.3s, box-shadow 0.3s;transition:background 0.3s, color 0.3s, box-shadow 0.3s;display:inline-block;cursor:pointer;margin:0;width:42px !important;height:42px !important;text-align:center;position:relative;z-index:2;border-radius:50%;-o-border-radius:50%;-ms-border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;line-height:50px;}
+.icon_menu{font-size:22px;-webkit-transition:background 0.3s, color 0.3s, box-shadow 0.3s;-moz-transition:background 0.3s, color 0.3s, box-shadow 0.3s;transition:background 0.3s, color 0.3s, box-shadow 0.3s;display:inline-block;cursor:pointer;margin:0;width:42px !important;height:42px !important;text-align:center;position:relative;z-index:2;border-radius:50%;-o-border-radius:50%;-ms-border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;line-height:46px;}
 #verticalTab{z-index:1;height:100%;background:#fff;}
 l.resp-tabs-list, p{margin:0;padding:0;}
 .resp-tabs-list li{font-size:13px;display:inline-block;padding:13px 15px;margin:0;list-style:none;cursor:pointer;float:left;}
